@@ -1,3 +1,29 @@
 /**
 * Accordeon
 */
+details {
+    width: 100px;
+    overflow: hidden;
+    transition: width 2s;
+
+    display: flex;
+    /* fermé et ouvert */
+}
+
+details[open] {
+    width: 300px;
+    /* ouvert */
+}
+
+.accordeon {
+    display: flex;
+}
+
+.accordeon>details>summary {
+    list-style: none;
+}
+
+.accordeon>details>summary::marker,
+.accordeon>details>summary::-webkit-details-marker {
+    display: none;
+}

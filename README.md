@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/dX8z92B_)
-- nom :
-- prénom :
+- nom : Prothon
+- prénom : Lucile
 - URL Netlify :
 
 # Travail
@@ -11,7 +11,7 @@ N'oublier pas votre nom, prénom et l'URL de publication Netlify...
 
 **Faire plusieurs commits** pour chaque étape du CSS
 
-Pour styler l'accordéon ouvert, utilisez l'attribut `open` (entre crochet en CSS `[open]` :
+Pour styler l'accordéon ouvert, utilisez l'attribut `open` entre crochet en CSS `[open]` :
 
 ```css
 details {
